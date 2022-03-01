@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "506099360358",
+    "project_id": "shoppingcart-26172",
+    "storage_bucket": "shoppingcart-26172.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506099360358:android:7a0b0ba627fc6abf8b43a7",
+        "android_client_info": {
+          "package_name": "com.dongpakka.shopping_cart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506099360358-ugq53pibo2cpevn8ji4so171uqogrg8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwCSDM47z4PjLnFWVA9UEEkSK7LieWaQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506099360358-ugq53pibo2cpevn8ji4so171uqogrg8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
